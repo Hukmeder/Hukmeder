@@ -1,4 +1,3 @@
-<h1 align="center"> ATTACKER </h1>
 <p align="center">
   <img src="https://i.ibb.co/Nm2J1GK/levi-bw.gif" width="600px">
 </p>
@@ -7,8 +6,8 @@
 
 ### 👤 About Me
 
-- 🏴‍☠️ Red Team / Pentester  
-- 🧩 Exploit Dev & Malware Analysis  
+-  Red Team / Pentester  
+-  Exploit Dev & Malware Analysis  
 
 
 ---
@@ -36,4 +35,4 @@
 ---
 
 ###
-*"No matter how messed up things get, you can always figure out the best move."* – Levi Ackerman
+*"No matter how messed up things get, you can always figure out the best move."*
