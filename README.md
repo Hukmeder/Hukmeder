@@ -5,12 +5,10 @@
 
 ---
 
-### 👤 About Me
-- 🕶️ Dark Theme Enthusiast  
+### 👤 About Me 
 - 🏴‍☠️ Red Team / Pentester  
-- 🧩 Exploit Dev, Malware Analysis  
-- ⚔️ Attack on Titan Fan | Levi Vibes  
-
+- 🧩 Exploit Dev, Malware Analysis
+  
 ---
 
 ### 🛠️ Languages & Tools
@@ -35,5 +33,5 @@
 
 ---
 
-### ⚔️ Hacker Quote
+###
 *"No matter how messed up things get, you can always figure out the best move."* – 
