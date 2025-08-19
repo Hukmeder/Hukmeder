@@ -1,4 +1,4 @@
-<h1 align="center">⚔️ Levi Mode | Red Team Operator ⚔️</h1>
+<h1 align="center"> ATTACKER </h1>
 <p align="center">
   <img src="https://i.ibb.co/mF1w3Pb/levi-dark.gif" width="600px">
 </p>
